@@ -8,7 +8,7 @@
  ```python
  class WhoAmI:
  	user = 'Alia Oudjana'
-		profession = 'Web and mobile application developer'
+		profession = 'Web developer'
 		hobbies = [
 				'Drawing',
 				'Stargazing',
