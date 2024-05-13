@@ -23,7 +23,6 @@
 ## Programming Languages and Tools
  <img src = 'images/html.svg' height='40'/>  <img src = 'images/css.svg' width='40'/>
 <img src = 'images/js.svg' width='40'/> <img src = 'images/php.svg' width='46'/> 
-<img src = 'images/laravel.svg' width='50'/> <img src = 'images/docker.svg' width='40'/>
 <img src = 'images/sql.svg' width='40'/>
 <img src = 'images/java.svg' width='40'/> <img src = 'images/python.svg' width='40'/>
 <img src = 'images/dart.svg' width='40'/> <img src = 'images/flutter-logo.svg' width='30'/>
