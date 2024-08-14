@@ -27,4 +27,9 @@
 <img src = 'images/java.svg' width='40'/> <img src = 'images/python.svg' width='40'/>
 <img src = 'images/dart.svg' width='40'/> <img src = 'images/flutter-logo.svg' width='30'/>
 <img src = 'images/c-sharp.svg' width='35'/> <img src = 'images/vbnet.svg' width='40'/>
+
+## Projects
+
+Recipe Book: https://aliaoudjana.github.io/CodeClauseInternship_RecipeBook/ <br>
+Ultimate Tic-Tac-Toe: https://aliaoudjana.github.io/Ultimate-Tic-Tac-Toe/
  
