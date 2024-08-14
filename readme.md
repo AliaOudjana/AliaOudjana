@@ -1,4 +1,4 @@
-# Hi there 👋, I am Alia Oudjana
+# Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-aliaoudjana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alia-oudjana/)](https://www.linkedin.com/in/alia-oudjana/)
 [![Gmail Badge](https://img.shields.io/badge/-aliaoudjana@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliaoudjana@gmail.com)](mailto:aliaoudjana@gmail.com)
