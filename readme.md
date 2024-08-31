@@ -30,6 +30,6 @@
 
 ## Projects
 
-Recipe Book: https://aliaoudjana.github.io/CodeClauseInternship_RecipeBook/ <br>
+Recipe Book: https://aliaoudjana.github.io/RecipeBook/ <br>
 Ultimate Tic-Tac-Toe: https://aliaoudjana.github.io/Ultimate-Tic-Tac-Toe/
  
