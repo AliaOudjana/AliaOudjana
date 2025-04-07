@@ -12,6 +12,7 @@
 		hobbies = [
 				'Drawing',
 				'Stargazing',
+				'Playing Chess',
 				'Learning new languages'
 			]
 	
