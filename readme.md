@@ -12,8 +12,7 @@
 		hobbies = [
 				'Drawing',
 				'Stargazing',
-				'Playing Chess',
-				'Learning new languages'
+				'Playing Chess'
 			]
 	
 	def getCountry():
