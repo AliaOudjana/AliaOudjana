@@ -23,13 +23,13 @@
 ## Programming Languages, Frameworks, and Tools
  <img src = 'images/html.svg' height='40'/>  <img src = 'images/css.svg' width='40'/>
   <img src = 'images/sass.svg' height='40'/>  <img src = 'images/js.svg' width='40'/>
-<img src = 'images/react.svg' width='40'/> <img src = 'images/sql.svg' width='40'/>
+<!-- <img src = 'images/react.svg' width='40'/> <img src = 'images/sql.svg' width='40'/> -->
 <img src = 'images/java.svg' width='40'/> <img src = 'images/python.svg' width='40'/>
 <img src = 'images/c-sharp.svg' width='35'/> <img src = 'images/vbnet.svg' width='40'/>
  <img src = 'images/git.svg' height='40'/>
 
 ## Projects
 
-[Recipe Book](https://aliaoudjana.github.io/RecipeBook/)
+[Payment Landing Page](https://aliaoudjana.github.io/Payment-Landing-Page/)
 
  
