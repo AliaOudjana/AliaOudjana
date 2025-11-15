@@ -20,16 +20,15 @@
 	
  ```
 
-## Programming Languages, Frameworks, and Tools
+## Skills
  <img src = 'images/html.svg' height='40'/>  <img src = 'images/css.svg' width='40'/>
   <img src = 'images/sass.svg' height='40'/>  <img src = 'images/js.svg' width='40'/>
 <!-- <img src = 'images/react.svg' width='40'/> <img src = 'images/sql.svg' width='40'/> -->
-<img src = 'images/java.svg' width='40'/> <img src = 'images/python.svg' width='40'/>
-<img src = 'images/c-sharp.svg' width='35'/> <img src = 'images/vbnet.svg' width='40'/>
- <img src = 'images/git.svg' height='40'/>
 
 ## Projects
 
+[3D Moon Lamp Landing Page](https://aliaoudjana.github.io/3D-Moon-Lamp-Landing-Page/)
+[Blogr landing page](https://aliaoudjana.github.io/Blogr-landing-page/)
 [Payment Landing Page](https://aliaoudjana.github.io/Payment-Landing-Page/)
 
  
