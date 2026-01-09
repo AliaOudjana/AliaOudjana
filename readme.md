@@ -23,6 +23,7 @@ I’m currently learning React.
 
 ## Featured Projects
 
+[Smart home landing page](https://aliaoudjana.github.io/Smart-home-landing-page/) </br>
 [3D Moon Lamp Landing Page](https://aliaoudjana.github.io/3D-Moon-Lamp-Landing-Page/) </br>
 [Blogr landing page](https://aliaoudjana.github.io/Blogr-landing-page/)
 
