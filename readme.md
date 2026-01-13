@@ -12,7 +12,7 @@ I’m currently learning React.
 
 <img src = 'images/html.svg' height='40'/> <img src = 'images/css.svg' width='40'/>
 <img src = 'images/sass.svg' height='40'/> <img src = 'images/js.svg' width='40'/>
-<img src = 'images/react.svg' width='40'/> <img src = 'images/figma.svg' width='40'/>
+<img src = 'images/react.svg' width='40'/> <img src = 'images/nodejs.jpg' width='70'/> <img src = 'images/figma.svg' width='40'/>
 </br></br>
 
 ## My Hobbies:<br>
