@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/alia-oudjana/)
 [![Mail Badge](https://img.shields.io/badge/-Email-purple)](mailto:aliaoudjana@proton.me)
 
-I’m a frontend web developer based in Algeria.</br>
+I’m a Web Developer based in Algeria.</br>
 I enjoy building visually appealing and responsive web applications.</br>
 </br></br>
 
