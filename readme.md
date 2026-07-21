@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/alia-oudjana/)
 [![Mail Badge](https://img.shields.io/badge/-Email-purple)](mailto:aliaoudjana@proton.me)
 
-I’m a Web Developer based in Algeria.</br>
+I’m a Frontend Developer based in Algeria.</br>
 I enjoy building visually appealing and responsive web applications.</br>
 </br></br>
 
@@ -13,12 +13,6 @@ I enjoy building visually appealing and responsive web applications.</br>
 <img src = 'images/sass.svg' width='50'/> <img src = 'images/js.svg' width='50'/>
 <img src = 'images/react.svg' width='50'/> <img src = 'images/nodejs.svg' width='70'/> <img src = 'images/figma.svg' width='50'/>
 <img src = 'images/c-sharp.svg' width='50'/> <img src = 'images/sql.svg' width='50'/>
-</br></br>
-
-## My Hobbies:<br>
-♟️ Playing Chess [(play chess with me!)](https://www.chess.com/member/new-player-19)</br>
-🎨 Drawing</br>
-🌌 Stargazing
 </br></br>
 
 ## Featured Projects
